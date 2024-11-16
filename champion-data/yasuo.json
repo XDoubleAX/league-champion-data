@@ -10,5 +10,5 @@
     "damageType": "kPhysical"
   },
   "roles": ["fighter", "assassin"],
-  "squarePortraitPath": "/lol-game-data/assets/v1/champion-icons/157.png"
+  "squarePortraitPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/157.png"
 }
