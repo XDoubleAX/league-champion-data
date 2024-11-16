@@ -1,45 +1,14 @@
 {
-    "id": 157,
-    "name": "Yasuo",
-    "alias": "Yasuo",
-    "title": "the Unforgiven",
-    "shortBio": "An Ionian of deep resolve, Yasuo is an agile swordsman who wields the air itself against his enemies...",
-    "roles": ["Fighter", "Assassin"],
-    "playstyle": {
-        "style": 3,
-        "difficulty": 3,
-        "damage": 3,
-        "durability": 1,
-        "crowdControl": 2,
-        "mobility": 3,
-        "utility": 2
-    },
-    "media": {
-        "icon": "/lol-game-data/assets/v1/champion-icons/157.png",
-        "chooseVo": "/lol-game-data/assets/v1/champion-choose-vo/157.ogg",
-        "banVo": "/lol-game-data/assets/v1/champion-ban-vo/157.ogg"
-    },
-    "skins": [
-        {
-            "id": 157000,
-            "name": "Yasuo",
-            "isBase": true,
-            "splashPath": "/lol-game-data/assets/ASSETS/Characters/Yasuo/Skins/Base/Images/yasuo_splash_centered_0.jpg",
-            "tilePath": "/lol-game-data/assets/ASSETS/Characters/Yasuo/Skins/Base/Images/yasuo_splash_tile_0.jpg"
-        },
-        {
-            "id": 157001,
-            "name": "High Noon Yasuo",
-            "splashPath": "/lol-game-data/assets/ASSETS/Characters/Yasuo/Skins/Skin01/Images/yasuo_splash_centered_1.jpg",
-            "tilePath": "/lol-game-data/assets/ASSETS/Characters/Yasuo/Skins/Skin01/Images/yasuo_splash_tile_1.jpg",
-            "chromas": [
-                {
-                    "id": 157004,
-                    "name": "High Noon Yasuo",
-                    "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/157/157004.png",
-                    "colors": ["#002B83", "#AA5500"]
-                }
-            ]
-        }
-    ]
+  "id": 157,
+  "name": "Yasuo",
+  "alias": "Yasuo",
+  "title": "the Unforgiven",
+  "shortBio": "An Ionian of deep resolve, Yasuo is an agile swordsman who wields the air itself against his enemies. As a proud young man, he was falsely accused of murdering his master—unable to prove his innocence, he was forced to slay his own brother in self defense. Even after his master's true killer was revealed, Yasuo still could not forgive himself for all he had done, and now wanders his homeland with only the wind to guide his blade.",
+  "tacticalInfo": {
+    "style": 3,
+    "difficulty": 3,
+    "damageType": "kPhysical"
+  },
+  "roles": ["fighter", "assassin"],
+  "squarePortraitPath": "/lol-game-data/assets/v1/champion-icons/157.png"
 }
