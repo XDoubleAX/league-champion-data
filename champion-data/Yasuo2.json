@@ -16,7 +16,7 @@
     "mobility": 3,
     "utility": 2
   },
-  "squarePortraitPath": "/lol-game-data/global/default/v1/champion-icons/157.png",
+  "squarePortraitPath": "/https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/157.png",
   "stingerSfxPath": "/lol-game-data/assets/v1/champion-sfx-audios/157.ogg",
   "chooseVoPath": "/lol-game-data/assets/v1/champion-choose-vo/157.ogg",
   "banVoPath": "/lol-game-data/assets/v1/champion-ban-vo/157.ogg",
