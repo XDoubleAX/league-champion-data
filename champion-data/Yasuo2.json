@@ -16,7 +16,7 @@
     "mobility": 3,
     "utility": 2
   },
-  "squarePortraitPath": "https://raw.githubusercontent.com/XDoubleAX/league-champion-data/main/champion-images/yasuo.png",
+  "squarePortraitPath": "/XDoubleAX/league-champion-data/main/champion-images/yasuo.png",
   "stingerSfxPath": "/lol-game-data/assets/v1/champion-sfx-audios/157.ogg",
   "chooseVoPath": "/lol-game-data/assets/v1/champion-choose-vo/157.ogg",
   "banVoPath": "/lol-game-data/assets/v1/champion-ban-vo/157.ogg",
